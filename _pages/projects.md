@@ -1,8 +1,8 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
-description: Policy contributions in German.
+description: Ongoing research projects.
 nav: true
 nav_order: 1
 display_categories: [work, fun]

@@ -8,7 +8,6 @@ profile:
   image: m-pannier.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Office No. 117</p>
     <p>Schackstr. 4</p>
     <p>80539 Munich</p>
 
