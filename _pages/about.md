@@ -8,6 +8,8 @@ profile:
   image: m-pannier.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>Office No. 117</p>
+    
     <p>Schackstr. 4</p>
     <p>80539 Munich</p>
 
@@ -20,5 +22,6 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD student at [LMU Munich](https://www.econ.lmu.de/en/) and a guest PhD student at [ifo Institute](https://www.ifo.de/en). 
 
-My interests lie in Public Economics, Political Economy and Applied Microeconomics. 
+My interests lie in Public Economics, Political Economy and Applied Microeconomics.
+
 In my current research, I work at the intersection of theory and empirics with a focus on the design and potential reforms of tax-transfer systems.
