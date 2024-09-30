@@ -1,10 +1,10 @@
 ---
 layout: page
-title: policy
-permalink: /policy/
+title: research
+permalink: /research/
 description: Policy contributions in German.
 nav: true
-nav_order: 2
+nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---

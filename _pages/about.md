@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student. LMU Munich. ifo Institute. <a href='#'>Affiliations</a>.
-
+subtitle: PhD Student. LMU Munich. ifo Institute.
 profile:
   align: right
   image: m-pannier.jpg
@@ -22,4 +21,5 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD student at [LMU Munich](https://www.econ.lmu.de/en/) and a guest PhD student at [ifo Institute](https://www.ifo.de/en). 
 
-My interests lie in Public Economics, Political Economy and Applied Microeconomics. In my current research, I work at the intersection of theory and empirics with a focus on the design and potential reforms of tax-transfer systems.
+My interests lie in Public Economics, Political Economy and Applied Microeconomics. 
+In my current research, I work at the intersection of theory and empirics with a focus on the design and potential reforms of tax-transfer systems.
