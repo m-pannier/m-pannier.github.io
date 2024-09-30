@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: I perceive teaching to be an integral part of the academic journey. Becoming a better teacher means becoming a better economics communicator.
 nav: true
 nav_order: 3
 ---

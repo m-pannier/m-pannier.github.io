@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
 subtitle: PhD Student. LMU Munich. ifo Institute.
 profile:

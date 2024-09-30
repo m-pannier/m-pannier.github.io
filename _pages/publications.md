@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /policy/
-title: policy
+title: Policy contributions
 description: Policy contributions in German.
 nav: true
 nav_order: 2
