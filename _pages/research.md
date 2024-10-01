@@ -12,7 +12,7 @@ nav_order: 1
 ***************
 
 A reform-oriented approach to political parties’ revealed social preferences  
-*with Felix Bierbrauer, Maximilian Blömer, Lilly Fischer, Emanuel Hansen and Andreas Peichl*
+*with [Felix Bierbrauer](https://sites.google.com/view/felixbierbrauer/startseite), Maximilian Blömer, Lilly Fischer, [Emanuel Hansen](https://sites.google.com/view/emanuelhansen/home) and [Andreas Peichl](https://www.ifo.de/en/peichl-a)*
 
 <details><summary>Abstract</summary>
 We present a new methodological approach to measure the redistributive preferences of political parties based on their election proposals. This approach builds on the marginal value of public funds (MVPF) framework. We recover the welfare weight associated with a small reform as the inverse of its MVPF. 
@@ -23,4 +23,4 @@ Leveraging this approach, we use a rich structural microsimulation model to esti
 ****************
 
 Optimal taxation with endogenous transfer take-up  
-*with Spencer Bastani and Emanuel Hansen*
+*with [Spencer Bastani](https://www.spencerbastani.com/) and [Emanuel Hansen](https://sites.google.com/view/emanuelhansen/home)*
