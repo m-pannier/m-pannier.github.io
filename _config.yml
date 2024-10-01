@@ -634,4 +634,4 @@ jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
 jsonresume: # add parts of the CV explicitly on the website by inserting them below after a tab and "-", e.g. "- work"
-
+  - education
