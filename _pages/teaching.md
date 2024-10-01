@@ -25,7 +25,7 @@ Finanzwissenschaft 2 (Public Economics 2), Bachelor, Teaching Assistant
 
 #### Winter 2022/23
 
-Makroökonomie 1 (Macroeconomics 1), Bachelor, Teaching Assistant
+Makroökonomie 1 (Macroeconomics 1), Bachelor, Teaching Assistant  
 International Taxation, Master Seminar, Teaching Assistant
 
 #### Since 2022
