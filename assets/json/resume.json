@@ -51,7 +51,8 @@
       "location": "Munich, Germany",
       "area": "Economics",
       "studyType": "PhD",
-      "date": "Since 2022"
+      "startDate": "2022",
+      "endDate": ""
     },
     {
       "institution": "LMU Munich, Germany",
