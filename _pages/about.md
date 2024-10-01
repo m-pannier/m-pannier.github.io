@@ -9,7 +9,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Schackstr. 4,</p>
-    <p>Office No. 117</p>
+    <p>Office No. 117,</p>
     <p>80539 Munich</p>
 
 news: false # includes a list of news items
