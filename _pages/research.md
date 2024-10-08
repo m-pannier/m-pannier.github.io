@@ -22,5 +22,5 @@ Leveraging this approach, we use a rich structural microsimulation model to esti
 
 ****************
 
-Optimal taxation with endogenous transfer take-up  
+Designing redistribution with endogenous transfer take-up  
 *with [Spencer Bastani](https://www.spencerbastani.com/) and [Emanuel Hansen](https://sites.google.com/view/emanuelhansen/home)*

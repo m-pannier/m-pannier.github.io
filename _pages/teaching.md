@@ -2,10 +2,12 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: I perceive teaching to be an integral part of the academic journey. Becoming a better teacher means becoming a better economics communicator.
+description: I perceive teaching to be an integral part of the academic journey.
 nav: true
 nav_order: 3
 ---
+
+In 2024, I received the [VAC Best Teaching Award](https://www.econ.alumni.uni-muenchen.de/auszeichnungen/preis_der_lehre/index.html)
 
 #### Winter 2024/25
 
