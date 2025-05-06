@@ -9,19 +9,11 @@ nav_order: 3
 
 In 2024, I received the [Award for Excellence in Teaching](https://www.econ.lmu.de/de/aktuelles/news/2024-award-for-excellence-in-teaching.html).
 
-#### Winter 2024/25
+#### Since 2024
 
 Public Economics, Master, Teaching Assistant
 
-#### Summer 2024
-
-Finanzwissenschaft 2 (Public Economics 2), Bachelor, Teaching Assistant
-
-#### Winter 2023/24
-
-Finanzwissenschaft 2 (Public Economics 2), Bachelor, Teaching Assistant
-
-#### Summer 2023
+#### 2023 - 2024
 
 Finanzwissenschaft 2 (Public Economics 2), Bachelor, Teaching Assistant
 
