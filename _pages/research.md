@@ -29,12 +29,12 @@ The existing literature on optimal income taxation ignores that, across the worl
 
 ****************
 
-Beliefs about behavioral responses to income taxation
+Beliefs about behavioral responses to income taxation  
 *with [Lilly Fischer](https://www.ifo.de/en/fischer-l)*
 
 <details><summary>Abstract</summary>
 This project is motivated by the fact that the analysis of politically feasible reforms and inverse-optimum approaches rely on reduced-form estimates of the elasticity of taxable income (ETI), while their necessary input parameter would rather be the population's beliefs about behavioral responses to taxation. This project examines citizens' perceived behavioral responses to income taxation and explores their impact on policy support. We argue that survey questions on tax reforms' behavioral revenue effect as compared to their mechanical revenue effect are key to quantify individuals' beliefs. We translate these tax revenue beliefs into elasticities of taxable income (ETI) using a simple labor supply model. This can, under some assumptions, provide a sufficient statistic for ETI beliefs. Our pilot results reveal strong heterogeneity in individual beliefs, although average perceptions align with reduced-form ETI estimates. Correlating these results with household characteristics, we find that right-leaning respondents tend to believe in higher ETIs. In the next steps, we plan to explore how these findings impact policy support and existing public finance results.
-<details>
+</details>
 
 ****************
 
