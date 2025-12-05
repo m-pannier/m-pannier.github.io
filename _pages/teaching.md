@@ -13,6 +13,14 @@ In 2024, I received the [Award for Excellence in Teaching](https://www.econ.lmu.
 
 Public Economics, Master, Teaching Assistant
 
+#### Winter 2024/25
+
+Welfare Transfers and Poverty Alleviation, Master Seminar, Teaching Assistant
+
+#### Summer 2024
+
+Advanced Topic in Empirical Public Finance, Bachelor Seminar, Teaching Assistant
+
 #### 2023 - 2024
 
 Finanzwissenschaft 2 (Public Economics 2), Bachelor, Teaching Assistant
