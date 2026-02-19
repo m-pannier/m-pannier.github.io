@@ -38,4 +38,4 @@ This project is motivated by the fact that the analysis of politically feasible 
 
 ****************
 
-Welfare effects of providing pension subsidies to low-income pensioners
+The welfare effects of earned income pension credits for low-income retirees
