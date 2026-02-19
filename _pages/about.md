@@ -21,6 +21,8 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD student at [LMU Munich](https://www.econ.lmu.de/en/) and a guest PhD student at [ifo Institute](https://www.ifo.de/en). 
 
+In spring 2026, I visit Wharton School at the University of Pennsylvania under the supervision of [Ben Lockwood](https://benlockwood.com/).
+
 My interests lie in Public Economics, Political Economy and Applied Microeconomics.
 
-In my current research, I work at the intersection of theory and empirics with a focus on the design and potential reforms of tax-transfer systems.
+In my current research, I work at the intersection of theory and empirics with a focus on the design and potential reforms of tax-transfer and social insurance systems.
