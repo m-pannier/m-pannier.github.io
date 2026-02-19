@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-In 2024, I received the [Award for Excellence in Teaching](https://www.econ.lmu.de/de/aktuelles/news/2024-award-for-excellence-in-teaching.html).
+In 2024, I received the [Award for Excellence in Teaching](https://www.lmu.de/alumni-econ/de/auszeichnungen/preis-der-lehre/).
 
 #### Current
 
