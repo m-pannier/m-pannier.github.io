@@ -21,7 +21,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a PhD student at [LMU Munich](https://www.econ.lmu.de/en/) and a guest PhD student at [ifo Institute](https://www.ifo.de/en). 
 
-In spring 2026, I visit Wharton School at the University of Pennsylvania under the supervision of [Ben Lockwood](https://benlockwood.com/).
+In spring 2026, I visit Wharton School at the University of Pennsylvania sponsored by [Ben Lockwood](https://benlockwood.com/).
 
 My interests lie in Public Economics, Political Economy and Applied Microeconomics.
 
