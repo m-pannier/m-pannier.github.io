@@ -18,6 +18,8 @@ Pension Income and Post-Retirement Labor Supply  [CESifo Working Paper No. 12757
 This paper provides causal evidence on how pension income affects labor supply after retirement. We exploit the introduction of the German Earned Income Pension Credit (Grundrente), which permanently increased pension income for retirees with long contribution histories and comparatively low lifetime earnings. The reform generates exogenous variation in non-labor income without creating additional labor supply distortions, allowing us to isolate pure income effects. Using administrative data covering the universe of German retirees and a difference-in-differences design, we find that a 1,200 euro increase in annual pension income reduces unconditional labor earnings by approximately 122 euros, implying a marginal propensity to earn out of unearned income of −0.1. Two thirds of this response reflects extensive margin adjustments, which operate through both increased exit and reduced re-entry, with the remainder driven by intensive margin reductions. Effects are stronger for younger, more labor-market-attached cohorts.
 </details>
 
+***************
+
 
 ### Work in Progress
 
