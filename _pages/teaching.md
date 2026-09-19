@@ -9,13 +9,10 @@ nav_order: 3
 
 In 2024, I received the [Award for Excellence in Teaching](https://www.lmu.de/alumni-econ/de/auszeichnungen/preis-der-lehre/).
 
-### Current
+### PhD Teaching
 
 Public Economics, Master, Teaching Assistant  
 Bachelor and Master Theses, Co-Supervision  
-
-### Past
-
 Welfare Transfers and Poverty Alleviation, Master Seminar, Teaching Assistant  
 Advanced Topic in Empirical Public Finance, Bachelor Seminar, Teaching Assistant  
 International Taxation, Master Seminar, Teaching Assistant  
